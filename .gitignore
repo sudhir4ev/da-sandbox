@@ -1,4 +1,5 @@
-/sample-data/
+# ignore all sample data folders
+__sample/
 
 # IDE
 /.idea
