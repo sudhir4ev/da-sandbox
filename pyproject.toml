@@ -1,13 +1,15 @@
 [project]
-name = "transpose"
+name = "da-sandbox"
 version = "0.1.0"
-description = ""
+description = "explore data analytics topics"
 authors = [
     {name = "Sudhir"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "pandas (>=2.2.3,<3.0.0)",
+    "notebook (>=7.3.2,<8.0.0)"
 ]
 
 
